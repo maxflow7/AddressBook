@@ -80,12 +80,13 @@ def test_query():
 
 def main():
     # Remove comments to test the functions
-
     # test_show()
     # test_insert()
     # test_update()
     # test_query()
     # test_delete()
+    pass
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     main()
