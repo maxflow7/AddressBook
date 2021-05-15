@@ -26,6 +26,8 @@ REST API support for
 `.\Scripts\activate`
 3. Start flask application with
 `python app.py`  
+4. For API testing check
+`test.py`
 
 
 ## Rest API's documentation
