@@ -12,6 +12,7 @@ REST API support for
 
 ## Requirements:
 - Python
+- venv
 - MongoDB
 - Flask
 - PyMongo
@@ -19,7 +20,11 @@ REST API support for
 
 
 ## Usage Directions
-
+1. Clone the directory with 
+`git clone https://github.com/maxflow7/AddressBook.git`
+2. Activate the virutal environment (venv here)
+`.\Scripts\activate`
+3. Start flask application with
 `python app.py`  
 
 
